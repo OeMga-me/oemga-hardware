@@ -3,6 +3,9 @@
 <img width="2876" height="1442" alt="OeMga" src="https://github.com/user-attachments/assets/106e425a-3b5b-470b-b982-158102bae077" />
 Copyright 2026 Adithya Pamulaparthi. Licensed under CERN-OHL-S v2.
 
+
+[View Interactive 3D Model](hardware/CAD/Assembly.STL)
+
 ## The Vision
 Current wearables demand that we speak their language. OeMga.me learns ours.
 
