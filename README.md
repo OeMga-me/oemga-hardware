@@ -15,7 +15,10 @@ Today’s bio-sensors with rigid FSMs and pre-trained models, force the user to 
 This repository hosts the open-source hardware files for the foundational module of the OeMga $\alpha$ platform: a high-precision, teachable EMG sensor.
 
 
-![IMG-20260206-WA0022](https://github.com/user-attachments/assets/ff978f50-6b4f-40f7-95ac-a9b129fa0020)
+<p align="center">
+  <img width="259" height="338" alt="Screenshot 2026-02-07 at 9 29 29 PM"
+       src="https://github.com/user-attachments/assets/961fa366-c489-49b8-9d21-3cff7869ebda" />
+</p>
 
 
 
