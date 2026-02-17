@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-CERN--OHL--S_v2-brightgreen.svg" alt="License"/></a>
-<a href="https://www.onshape.com/"><img src="https://img.shields.io/badge/CAD-Onshape-blueviolet.svg" alt="Onshape"/></a>
+<a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/CAD-SolidWorks-red.svg" alt="SolidWorks"/></a>
 <a href="https://www.kicad.org/"><img src="https://img.shields.io/badge/PCB-KiCad-blue.svg" alt="KiCad"/></a>
 </p>
 
