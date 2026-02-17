@@ -1,4 +1,4 @@
-<h1 align="center">OeMga Hardware</h1>
+<h1 align="center">OeMga.me Hardware</h1>
 
 <p align="center">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-CERN--OHL--S_v2-brightgreen.svg" alt="License"/></a>
