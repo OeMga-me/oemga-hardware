@@ -1,10 +1,17 @@
-# OeMga.me: The Teachable Bio-Interaction Platform
+<h1 align="center">OeMga Hardware</h1>
+
+<p align="center">
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-CERN--OHL--S_v2-brightgreen.svg" alt="License"/></a>
+<a href="https://www.onshape.com/"><img src="https://img.shields.io/badge/CAD-Onshape-blueviolet.svg" alt="Onshape"/></a>
+<a href="https://www.kicad.org/"><img src="https://img.shields.io/badge/PCB-KiCad-blue.svg" alt="KiCad"/></a>
+</p>
+
+<p align="center">
+<strong>The open-source, on-device teachable bio-interaction platform.</strong>
+</p>
 
 <img width="2876" height="1442" alt="OeMga" src="https://github.com/user-attachments/assets/106e425a-3b5b-470b-b982-158102bae077" />
 Copyright 2026 Adithya Pamulaparthi. Licensed under CERN-OHL-S v2.
-
-
-[View Interactive 3D Model](hardware/CAD/Assembly.STL)
 
 ## The Vision
 Current wearables demand that we speak their language. OeMga.me learns ours.
